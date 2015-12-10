@@ -1,5 +1,5 @@
 # XCLoadingImageView
-XCLoadingImageView-加载进度动画View
+XCLoadingImageView-加载进度动画View，蒙层加载进度效果
 效果图如下：
 
 
