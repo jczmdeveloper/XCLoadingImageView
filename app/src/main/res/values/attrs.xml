@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XCLoadingImageView">
+        <attr name="auto_start_anim" format="boolean" />
+        <attr name="mask_color" format="color" />
+    </declare-styleable>
+</resources>
